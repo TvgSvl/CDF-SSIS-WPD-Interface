@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DataVault"
+  DTS:DTSID="{AF82E7AA-ADBF-4917-9734-C011E80389F2}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=SVL1DWHTA02\DWHTA02;User ID=sys_test_attunity;Initial Catalog=SVL_DWH_DEV;Provider=SQLNCLI11.1;Persist Security Info=True;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA83KcgOjK4kWXUqx5ZEEbcgAAAAACAAAAAAADZgAAwAAAABAAAABc8bT7qkgFL6mmedMAbZsVAAAAAASAAACgAAAAEAAAAHRG+Yfd2noVQITeoNE1ceeAAAAAS6wut+P4dN6jUU/EgPg107JwNKy5KDxO9jir17JPGmmd3i3tnEsHWhMVnGor8XReO5GtwJwgDhnS6GxGU5u0EXE8KREfkRlHuiPyKzHQDy90ESTId9X8w2O8Xe3iRAwVUNqBwuRqOGVaTK+OeqpA0qc0P6kYvRLH3bwUWccJIVIUAAAAHdgDw0C56FB63tHzJbYEUfkVVNo=</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

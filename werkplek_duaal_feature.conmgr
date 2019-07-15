@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="werkplek_duaal_feature"
+  DTS:DTSID="{3B48218C-C5DA-422B-84D8-FEECC317C40B}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=SVL2SDBTA01\DBTA;User ID=sys_test_attunity;Initial Catalog=werkplek_duaal_feature;Provider=SQLNCLI11.1;Persist Security Info=True;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA83KcgOjK4kWXUqx5ZEEbcgAAAAACAAAAAAADZgAAwAAAABAAAABpOrD0lPzRbKFLb8suGY4pAAAAAASAAACgAAAAEAAAAA1KI2FcEW5CoFH1ARhRTJCAAAAAVz715aaOi3WYw7dsT+nbYmlrqDi9+PzivVGc+X5GjOlAtaZgzv/ur3V8K60LsSkgBo8yCw2L0H0UQ7BnMOl99tf8jJ0M4o8Sr9ibN1LbHWjdJEIBx61tMlCE/NwZBO2EnhTjNHdfWVSOWTphMW7C8tG3YfZY3x23fP7X1+LIDo0UAAAASxaGQEa2kHBAQpHm028ZVfuDI5c=</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
